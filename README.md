@@ -6,3 +6,4 @@ My Resume written in React. It is available online at <https://szokodiakos.githu
 
 To deploy to GitHub Pages, run `npm run deploy`.# cv-react
 # cv-react
+# cv-react
